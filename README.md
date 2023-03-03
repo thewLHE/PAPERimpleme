@@ -1,8 +1,10 @@
 # PAPERimplementation
 
 ## Link
+<p>
 <img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Tistory&logoColor=white"/>
-
+</p>
+  
 ## Stat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewLHE&layout=compact"><br><br>
