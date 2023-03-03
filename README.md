@@ -1,7 +1,7 @@
 # PAPERimplementation
 
 ## Link
-<a href="링크주소">
+<a href="https://l-he.tistory.com/">
   <p>
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </p>
